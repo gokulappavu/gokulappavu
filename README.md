@@ -2,8 +2,8 @@
 
 I'm a Currently Pursing Full Stack Java developer, from Chennai.
 
-- Stay updated with my journey on [Instagram](https://www.instagram.com/gokul_appavu), [LinkedIn](https://www.linkedin.com/in/gokulappavu) and [YouTube]().
-- Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/gokul_appavu), [LinkedIn](https://www.linkedin.com/in/gokulappavu).
+<!-- - Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization. -->
 
 <!-- ## 📦 Toolbox
 
