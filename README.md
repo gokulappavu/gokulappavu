@@ -14,6 +14,7 @@
   🔭 I’m currently working as Software Developer Intern on **WHY tap**<br/>
   🌱 I’m currently learning **NodeJs, Python, AWS**<br/>
   💬 Ask me about **Anything [here](https://github.com/gokulappavu/gokulappavu/issues)**<br/>
+  ⚡ Fun fact: Software Developer skilled in **Software Testing**<br/>
 
  </div>
  
