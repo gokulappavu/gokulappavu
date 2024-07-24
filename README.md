@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gokulappavu.gokulappavu" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=100%&lines=Hi+There!+%F0%9F%91%8B;I'm+Gokul!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Gokul!)
 
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
