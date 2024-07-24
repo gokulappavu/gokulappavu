@@ -40,7 +40,7 @@
 </div>
 <br/>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gokulappavu/gokulappavu/output/github-contribution-grid-snake.svg" />
@@ -56,7 +56,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
-<!-- 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gokul-appavu?theme=dark&font=Vidaloka&ext=heatmap)
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulappavu-r&theme=dark&show_icons=true&&hide=issues,contribs) 
--->
+![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulappavu-r&theme=dark&show_icons=true&&hide=issues,contribs)  -->
