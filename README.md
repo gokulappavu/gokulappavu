@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gokulappavu" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gokulappav" />
 <br>
 
 <div align="center">
