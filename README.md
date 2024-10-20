@@ -47,7 +47,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gokulappavu/gokulappavu/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
-<br/>
+<br/> -->
 
 <div align=center>
   <h2 align="center">⚡ Stats ⚡</h2>
